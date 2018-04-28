@@ -99,4 +99,3 @@ void setOutputDevice(unsigned int index);
 
 
 #endif /* PA_H */
-
